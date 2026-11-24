@@ -1,0 +1,13 @@
+
+# Virtuelt Python-miljø
+venv/
+
+# Midlertidige Python-filer
+__pycache__/
+*.py[cod]
+
+# Personlige testvideoer
+*.mp4
+*.mov
+*.csv
+*.task
