@@ -1,10 +1,6 @@
 import pandas as pd
-
 import matplotlib.pyplot as plt
-
 from scipy.signal import find_peaks, savgol_filter
-
-
 
 hojde_m = float(input("Personens højde i meter (fx 1.75): ").replace(",", "."))
 
